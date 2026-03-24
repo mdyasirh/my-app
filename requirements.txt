@@ -1,0 +1,22 @@
+# LocalROSA - AI-Powered Rapid Office Strain Assessment
+# Python 3.11+ required
+
+# Core Computer Vision
+mediapipe>=0.10.9
+opencv-python>=4.8.0
+numpy>=1.24.0
+
+# Web UI
+gradio>=4.19.0
+
+# PDF Report Generation
+fpdf2>=2.7.6
+
+# Image Processing
+Pillow>=10.0.0
+
+# Testing
+pytest>=7.4.0
+
+# Optional: PyInstaller for .exe build
+# pyinstaller>=6.0.0
